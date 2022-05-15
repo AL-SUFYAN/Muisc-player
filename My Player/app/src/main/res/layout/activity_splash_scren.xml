@@ -23,7 +23,7 @@
             android:marqueeRepeatLimit="marquee_forever"
             android:padding="10dp"
             android:singleLine="true"
-            android:text="welome"
+            android:text="welcome"
             android:textColor="#B73E666A"
             android:textSize="40sp"
             android:textAlignment="center"
